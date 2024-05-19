@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact)](https://github.com/kiraogi/github-readme-stats)
+
 
 <!--
 **Kiraogi/Kiraogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
