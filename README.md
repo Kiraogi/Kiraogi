@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning ...  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact)](https://github.com/kiraogi/github-readme-stats)
 
 
