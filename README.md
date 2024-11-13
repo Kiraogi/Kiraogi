@@ -1,6 +1,10 @@
-### Hi there 👋
-🌱 I’m currently learning ...  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact)](https://github.com/kiraogi/github-readme-stats)
+<div id="header align="center">
+  <h1> Hi there, I'm Andrei 👋</h1>
+  <h3> Backend developer from Saint Petersburg </h3>
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact&theme=radical)](https://github.com/kiraogi/github-readme-stats)
 
 
 <!--
