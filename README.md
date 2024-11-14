@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <h1> Hi there, I'm Andrei 👋</h1>
   <h3> Backend developer</h3>
-I am in the process of learning new frameworks and improving my skills.
+I'm in the process of learning new frameworks and improving my skills.
 
 * 🌍  I'm based in Saint Petersburg
 * ✉️  You can contact me at [golokron3@yandex.ru](mailto:golokron3@yandex.ru)
