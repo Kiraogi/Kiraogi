@@ -1,0 +1,51 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Download GitHub Stats
+        run: |
+          for i in 1 2 3; do
+            curl -s "https://github-readme-stats.vercel.app/api?username=kiraogi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff" > assets/github-stats.svg
+            if grep -q "Something went wrong" assets/github-stats.svg; then
+              echo "Attempt $i failed, retrying in 30s..."
+              sleep 30
+            else
+              echo "GitHub Stats downloaded successfully"
+              break
+            fi
+          done
+
+      - name: Download Top Languages
+        run: |
+          for i in 1 2 3; do
+            curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" > assets/top-langs.svg
+            if grep -q "Something went wrong" assets/top-langs.svg; then
+              echo "Attempt $i failed, retrying in 30s..."
+              sleep 30
+            else
+              echo "Top Languages downloaded successfully"
+              break
+            fi
+          done
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "chore: update github stats [bot]"
+          git push
