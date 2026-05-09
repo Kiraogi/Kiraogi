@@ -68,11 +68,15 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-kiraogi-s-projects.vercel.app/api/top-langs/?username=kiraogi&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=86400&v=2" alt="Top Languages" />
+  <img src="assets/github-stats.svg" height="180" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiraogi&theme=react&hide_border=true&area=true&v=2" alt="Activity Graph" />
+  <img src="assets/top-langs.svg" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiraogi&theme=react&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br/>
