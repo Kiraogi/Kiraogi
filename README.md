@@ -68,11 +68,11 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiraogi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kiraogi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400" height="180" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraogi&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
