@@ -69,7 +69,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiraogi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=58a6ff" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiraogi&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=00d4ff&fire=58a6ff&currStreakNum=00d4ff&sideNums=58a6ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
