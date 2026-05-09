@@ -57,14 +57,6 @@ me.say_hi()
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiraogi&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
