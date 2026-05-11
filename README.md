@@ -60,14 +60,6 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="assets/github-stats.svg" height="180" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="assets/top-langs.svg" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiraogi&theme=react&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
